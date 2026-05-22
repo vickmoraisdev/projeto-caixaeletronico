@@ -39,3 +39,7 @@ a:hover{
     color: burlywood;
     text-decoration: underline;
 }
+
+a.nome{
+    text-decoration: none;
+}
