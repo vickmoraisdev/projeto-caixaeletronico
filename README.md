@@ -14,7 +14,7 @@ O sistema simula operações básicas de um caixa eletrônico, permitindo realiz
 
 ## 📸 Preview
 
-[Preview do projeto](https://github.com/user-attachments/assets/e5c2490d-96f4-4ab9-a90c-e902c717fa10)
+![Preview do projeto](https://github.com/user-attachments/assets/e5c2490d-96f4-4ab9-a90c-e902c717fa10)
 
 ---
 
